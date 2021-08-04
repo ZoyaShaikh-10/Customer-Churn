@@ -14,3 +14,15 @@ The main objective of this project
 Performance metrics: 
    
  -  Selecting model based on accuracy score.
+
+**Breakdown of this project.
+-  understand the dataset.
+-  Handle missing values or handle data type as I did in this project.
+-  Perform Exploratory Data Analysis
+-  Data Preprocessing
+-  Train Test Split
+-  Apply Different Machine learning Algorithms
+-  Hypertune Parameters-- (Try different Parameters)
+-  Once you obtain good accuracy. Fit the model.
+-  
+-  Thank you.**
