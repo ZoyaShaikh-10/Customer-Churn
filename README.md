@@ -15,7 +15,7 @@ Performance metrics:
    
  -  Selecting model based on accuracy score.
 
-**Breakdown of this project.
+Breakdown of this project.
 -  understand the dataset.
 -  Handle missing values or handle data type as I did in this project.
 -  Perform Exploratory Data Analysis
@@ -25,4 +25,4 @@ Performance metrics:
 -  Hypertune Parameters-- (Try different Parameters)
 -  Once you obtain good accuracy. Fit the model.
 -  
--  Thank you.**
+-  Thank you.
